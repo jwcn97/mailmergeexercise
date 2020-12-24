@@ -1,0 +1,24 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "antd": "^4.9.4",
+    "material-ui-chip-input": "^2.0.0-beta.2",
+    "next": "^10.0.0",
+    "react": "16.13.1",
+    "react-alert": "^7.0.2",
+    "react-alert-template-basic": "^1.0.0",
+    "react-dom": "16.13.1",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.12.1",
+    "react-nextjs-toast": "^1.2.5"
+  }
+}
